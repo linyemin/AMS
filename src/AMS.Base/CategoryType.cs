@@ -6,6 +6,9 @@ using System.ComponentModel.DataAnnotations;
 
 namespace AMS.Base
 {
+    /// <summary>
+    /// aaa
+    /// </summary>
     public enum CategoryType
     {
         [Display(Name = "常规栏目")]
