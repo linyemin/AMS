@@ -7,6 +7,7 @@ namespace AMS.Base
 {
     public class Category
     {
+
         public Category()
         {
         }
