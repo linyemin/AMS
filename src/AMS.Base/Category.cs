@@ -5,11 +5,16 @@ using System.Threading.Tasks;
 
 namespace AMS.Base
 {
+    /// <summary>
+    /// 栏目模型
+    /// </summary>
     public class Category
     {
 
         public Category()
         {
         }
+
+
     }
 }
