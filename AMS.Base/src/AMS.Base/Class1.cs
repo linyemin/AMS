@@ -9,6 +9,7 @@ namespace AMS.Base
     {
         public Class1()
         {
+            
         }
     }
 }
